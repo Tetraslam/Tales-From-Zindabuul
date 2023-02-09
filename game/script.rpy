@@ -3,8 +3,9 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define princess = Character("Emotionless Princess")
+define boxman = Character("Box Man")
+define 
 
 # The game starts here.
 
